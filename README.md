@@ -1,6 +1,6 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
-
+## Name: Roshan G
+## Reg.No: 212223040176
 ## AIM
 To create the solid model from given drawing and section the solid model
 
@@ -41,6 +41,9 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+
+![Ex7](https://github.com/Roshan18git/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/166060107/cf78ce2a-6120-4a0f-8515-5cb707a0182d)
+
 
 ## RESULT:
 
